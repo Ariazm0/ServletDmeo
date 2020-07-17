@@ -40,5 +40,56 @@
     <servlet-name>ServletDemo2</servlet-name>
     <url-pattern>/ServletDemo2</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <servlet-name>ServletDemo3</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo3</servlet-name>
+    <url-pattern>/ServletDemo3</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ServletDemo4</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo4</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo4</servlet-name>
+    <url-pattern>/ServletDemo4</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ServletDemo5</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo5</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo5</servlet-name>
+    <url-pattern>/ServletDemo5</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ServletDemo6</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo6</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo6</servlet-name>
+    <url-pattern>/ServletDemo6</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ServletDemo7</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo7</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo7</servlet-name>
+    <url-pattern>/ServletDemo7</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ServletDemo8</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo8</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo8</servlet-name>
+    <url-pattern>/ServletDemo8</url-pattern>
+  </servlet-mapping>
 
 </web-app>
