@@ -92,4 +92,13 @@
     <url-pattern>/ServletDemo8</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <servlet-name>ServletDemo9</servlet-name>
+    <servlet-class>javaServletDemo.ServletDemo9</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo9</servlet-name>
+    <url-pattern>/ServletDemo9</url-pattern>
+  </servlet-mapping>
+
 </web-app>
